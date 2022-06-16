@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1653152552 source:c:\users\awab\desktop\finalpp\main\first.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"first.h"
+
+1653152458 c:\users\awab\desktop\finalpp\main\first.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1653155886 source:c:\users\awab\desktop\finalpp\main\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"CUSTOMER.h"
+	"ITEM.h"
+	"first.h"
+	"sales.h"
+
+1653153726 c:\users\awab\desktop\finalpp\main\customer.h
+	<iostream>
+
+1653153772 c:\users\awab\desktop\finalpp\main\item.h
+	"CUSTOMER.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1653156169 c:\users\awab\desktop\finalpp\main\sales.h
+	"ITEM.h"
+
